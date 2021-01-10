@@ -3,6 +3,7 @@ pink
 orange
 Yellow
 cyan
+Indigo
 white
 blue
 Marun
